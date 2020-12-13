@@ -6,6 +6,6 @@ For tasks of Kottans Front-End course
 
 ### 1. Finish the course Version Control with Git
 
-![1.1 Screenshot](https://github.com/7SergSmith7/kottans-frontend/blob/main/Git%20and%20GitHub/Version%20Control%20with%20Git.png)
+![1.1 Screenshot](https://github.com/SEM007-88/ecco-shop/blob/94ce1fa911697e9ce14200c1b8cd9e93c8f7f3b0/photo_2020-12-10_02-00-41.jpg?raw=true)
 
 ### 2. Finish the course https://learngitbranching.js.org/
